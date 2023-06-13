@@ -1,0 +1,40 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.bg {
+  background-image: url("../Image/bg.jpg");
+  height:94.2vh;
+   background-repeat: no-repeat;
+   background-size:100vw 99vh;
+}
+p{
+	color: white;
+	font-size: 5vh;
+
+}
+.flex{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.inputForm{
+	padding:1vw;
+	background-color: rgb(209, 209, 220);
+	 border-radius: 25px;
+}
+.star{
+	color: red;
+}
+label{
+	margin-left: .3vw; 
+	margin-bottom: .4vw;
+}
+.padding{
+	padding-top: 2vw;
+}
+
+a{  text-decoration: none;}
+
